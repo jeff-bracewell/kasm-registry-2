@@ -12,12 +12,20 @@
   ],
   "compatibility": [
     {
-      "version": "1.8.x",
+      "version": "1.16.x",
       "image": "registry.duskwood.io/kasm-obsidian:latest",
       "uncompressed_size_mb": 4078,
       "available_tags": [
         
       ]
-    }
+    },
+    {
+      "version": "1.17.x",
+      "image": "registry.duskwood.io/kasm-obsidian:latest",
+      "uncompressed_size_mb": 4078,
+      "available_tags": [
+        
+      ]
+    },
   ]
 }
