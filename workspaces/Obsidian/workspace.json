@@ -1,0 +1,23 @@
+{
+  "description": "Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.",
+  "docker_registry": "https://registry.duskwood.io/v2",
+  "image_src": "obsidian.png",
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Obsidian",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.x.x",
+      "image": "registry.duskwood.io/kasm-obsidian:latest",
+      "uncompressed_size_mb": 2428,
+      "available_tags": [
+        
+      ]
+    }
+  ],
+  "uncompressed_size_mb": 4078
+}
