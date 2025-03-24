@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Jeff\'s Registry',
     description: 'The official store for Jeff supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://jeff-bracewell.github.io/kasm-registry-2/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
